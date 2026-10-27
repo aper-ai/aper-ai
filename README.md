@@ -1,3 +1,5 @@
+![Aper AI — Research Integrity Intelligence](https://github.com/aper-ai/aper-ai/blob/main/banner.png?raw=true)
+
 <div align="center">
 
 # APER AI
